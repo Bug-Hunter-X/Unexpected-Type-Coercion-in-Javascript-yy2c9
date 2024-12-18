@@ -1,0 +1,1 @@
+This code demonstrates a common error in Javascript due to type coercion. When adding a number and a string, Javascript will implicitly convert the string to a number, which can lead to unexpected results. The bug.js file contains the buggy code, while bugSolution.js provides a solution to handle such scenarios.
